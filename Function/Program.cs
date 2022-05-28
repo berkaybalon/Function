@@ -9,7 +9,7 @@
 
 // WriteName();
 
-//Fonksiyonun tanımı (ismi). Fonksiyonu kullanırken bu isimle çağırıcaz.
+//Fonksiyonun tanımı (ismi). Fonksiyonu kullanırken bu isimle çağırıyoruz.
 
 
 //** İnteger döndüren fonksiyon

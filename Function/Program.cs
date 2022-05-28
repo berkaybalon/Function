@@ -52,7 +52,7 @@ CreditsClass credits = new CreditsClass();
 //sınıfı burda çağırdık. Sınıfı çağırmadan sınıfın içindeki fonksiyonu kullanamayız.
 
 credits.installment(kp,tutar);
-//Fonksiyonu çağırdık ve kullandık. Fonksiyonu kullanırken, fonksiyonda kullandığımız tüm değişkenleri parantez içinde tanımlıyoruz.
+//Fonksiyonu çağırdık ve kullandık. Fonksiyonu kullanırken, fonksiyonda kullandığımız tüm değişkenleri parantez içinde tanımlıyoruz. 
 
 
 
